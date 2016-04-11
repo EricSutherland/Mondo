@@ -1,0 +1,9 @@
+ - gem: money 6.7.0
+Please note the following API changes in Money version 6
+
+ - Money#amount, Money#dollars methods now return instances of BigDecimal (rather than Float).
+
+Please read the migration notes at https://github.com/RubyMoney/money#migration-notes
+and choose the migration that best suits your application.
+
+Test responsibly :-)
