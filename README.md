@@ -1,14 +1,24 @@
-Application for viewing and searching mondo transaction statements.
+## README
 
-- be able to authenticate and log in securly, both on the application and through mondo
-- Use of graphs and charts to view data, as well as searching and queries
-- The ability to see on a google map where these transactions too place.
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-phase 1
-log in and display amounts spend in each catagory
+Things you may want to cover:
 
-phase 2
-display data in graphs
+* Ruby version
 
-phase 3 
-show locations through google maps
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
